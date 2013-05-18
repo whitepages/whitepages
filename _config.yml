@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://whitepages.github.io
+title: connect
+subtitle: A blog for WhitePages engineers and developers
+author: WhitePages, Inc.
 simple_search: http://google.com/search
 description:
 
