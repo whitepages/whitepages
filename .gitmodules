@@ -1,0 +1,3 @@
+[submodule ".themes/wp-octo-theme"]
+	path = .themes/wp-octo-theme
+	url = git://github.com/octothemes/blanket.git
