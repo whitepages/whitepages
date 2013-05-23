@@ -21,4 +21,3 @@ So, now we have created a place where the wonderfully opinionated and wickedly s
 
 
 *\*Name and trademark still pending!!*
-
