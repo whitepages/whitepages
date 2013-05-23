@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://whitepages.github.io/sitemap.xml 

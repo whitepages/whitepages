@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: first post | connect]]></title>
+  <link href="http://whitepages.github.io/blog/categories/first-post/atom.xml" rel="self"/>
+  <link href="http://whitepages.github.io/"/>
+  <updated>2013-05-22T17:33:52-07:00</updated>
+  <id>http://whitepages.github.io/</id>
+  <author>
+    <name><![CDATA[WhitePages, Inc.]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[With nothing to say...]]></title>
+    <link href="http://whitepages.github.io/blog/2013/05/20/with-nothing-to-say/"/>
+    <updated>2013-05-20T16:26:00-07:00</updated>
+    <id>http://whitepages.github.io/blog/2013/05/20/with-nothing-to-say</id>
+    <content type="html"><![CDATA[<p>Ok that was just a cheap title just to try to hook you, but somehow I am ok with that :).</p>
+
+<p>The truth is I have lots to say, and so does everyone around me. We all stand around and muse about &ldquo;the how&rdquo; of what we just did or &ldquo;the what&rdquo; that we could do to make everything better, and frankly it is all quite entertaining and educational. So much so that we all have come to the consensus that we need to write it all down and share it with the outside world.</p>
+
+<p>So, now we have created a place where the wonderfully opinionated and wickedly smart people I work with here at <a href="http://www.whitepages.com">WhitePages</a> can say their piece. A open forum where we can talk about open source we love, think out-loud and show everyone (hi mom!) the cool thing we did yesterday while they were at our job.</p>
+
+<p><strong>So, with a song in my heart and nothing <em>more</em> to say, I herby christen thee &ldquo;connect&rdquo;*, our new WP developers blog.</strong></p>
+
+<p><em>*Name and trademark still pending!!</em></p>
+]]></content>
+  </entry>
+  
+</feed>
